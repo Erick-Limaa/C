@@ -397,7 +397,7 @@ int main(){
 
 //! While Loops
 /* 
-//* Vai repetir o codigo infinitas vezes ATÉ as algumas condiçoes continuarem verdadeiras
+//* Vai repetir o codigo infinitas vezes ATÉ algumas condiçoes continuarem verdadeiras
 
 int main(){
    char name[25];
